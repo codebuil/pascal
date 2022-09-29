@@ -8,7 +8,7 @@ Begin
       retss:=ii;
       if i>ii then retss:=i;
       
-      maxs:=ii;
+      maxs:=retss;
 End;
 
 (* Here the main program block starts *)
